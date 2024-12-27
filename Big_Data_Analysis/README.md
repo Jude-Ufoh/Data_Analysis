@@ -1,6 +1,6 @@
 # Big_Data_Analysis
 ## About the Project
-The project was one of the assignments at masters level. It involves the combination of clinical trial datasets and combining it with a 
+The project was one of the assignments at masters level. It involves the combination of clinical trial datasets and with a 
 list of pharmaceutical companies in order to bring out some useful insights and answer important questions on the datasets.
 ## Datasets
 ### Data 1 : Clinicaltrial_<year>.csv
